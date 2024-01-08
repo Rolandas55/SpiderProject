@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id = "@+id/gait1"
+        android:title = "Nepasirinkta"/>
+    <item android:id = "@+id/gait2"
+        android:title = "Pirma eisena"/>
+    <item android:id = "@+id/gait3"
+        android:title = "Antra eisena"/>
+    <item android:id = "@+id/gait4"
+        android:title = "Trečia eisena"/>
+
+</menu>
